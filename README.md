@@ -63,12 +63,19 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 
 ![ml 1](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/541c24b3-59d2-48d7-81f3-d120d285dd2f)
+
 ![ml 2](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/5dd19e9d-6f46-44b1-aad0-fb75131a25fa)
+
 ![ml 3](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/2272c806-838b-4d04-aeb1-82fc809045d4)
+
 ![ml 4](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/c0437120-e318-4285-b86d-7a561abdd8bf)
+
 ![ml 5](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/e0105ab9-f922-4de5-97ae-c7f296cd8ec0)
+
 ![ml 6](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/5769c780-813f-4d20-8c9a-e646b4b6a90e)
+
 ![ml 7](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/52d5e1c2-a100-4458-a3a6-f45e62306974)
+
 ![ml 8](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/df2b9024-c189-4566-8a9a-a953d5229f2b)
 
 
