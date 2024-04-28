@@ -1,13 +1,16 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
+
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
 ## Equipments Required:
+
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1. Import the required libraries.
 2. Upload and read the dataset.
 3. Check for any null values using the isnull() function.
@@ -61,7 +64,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-
 ![ml 1](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/541c24b3-59d2-48d7-81f3-d120d285dd2f)
 
 ![ml 2](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/5dd19e9d-6f46-44b1-aad0-fb75131a25fa)
@@ -78,7 +80,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![ml 8](https://github.com/Bosevennila/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/144870486/df2b9024-c189-4566-8a9a-a953d5229f2b)
 
-
-
 ## Result:
+
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
